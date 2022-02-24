@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Yasser Mejri!
 <a href='https://www.linkedin.com/in/yasser-mejri-646600225/'><img align='left' alt="linkedin" src="https://yassermej.herokuapp.com/images/linked.jpg" height='18px'/></a>
-
+<br/>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
@@ -17,7 +17,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [portfolio](https://yassermej.herokuapp.com/)
 - 📚 &nbsp; When I am free, I play basketball.
 
-<br>
+<br />
+<br />
+<br />
+<br />
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
