@@ -33,7 +33,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://supabase.com/" target="_blank">
 <img align="left" alt="supabase" src="https://raw.githubusercontent.com/yassermej/yassermej/main/assets/supabase.jpg" height ="42px"/></a>
-<br/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
