@@ -27,8 +27,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nextjs.org/" target="_blank">
-<img align="left" alt="supabase" src="https://raw.githubusercontent.com/yassermej/yassermej/main/assets/next.png" height ="42px"/></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/vue/vue.svg"></a>
+<img align="left" alt="nextjs" src="https://raw.githubusercontent.com/yassermej/yassermej/main/assets/next.png" height ="42px"/></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue.js" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/vue/vue.svg"></a>
+<a href="https://nuxtjs.org/" target="_blank">
+<img align="left" alt="nuxtjs" src="https://raw.githubusercontent.com/yassermej/yassermej/main/assets/nuxt.png" height ="42px"/></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/yassermej/README_icons/main/language_and_tools/square/python/python.svg"></a>
