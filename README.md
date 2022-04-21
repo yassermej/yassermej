@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 &nbsp; Familiar with RestFul/GraphQL APIs, automation, web3, automation, and responsive design
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yasser-mejri-646600225/)
-- 📝 &nbsp; Checkout my [portfolio](https://yassermej.herokuapp.com/)
+- 📝 &nbsp; Checkout my [portfolio](https://yassermej.netlify.app/)
 - 📚 &nbsp; When I am free, I play basketball.
 
 <br />
